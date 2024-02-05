@@ -2,16 +2,6 @@
 
 Welcome to my portfolio website! This project showcases my skills and projects using Tailwind CSS and ReactJS.
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Demo
 
 You can visit the live website here: [Your Portfolio Website Link]
