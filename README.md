@@ -4,7 +4,7 @@ Welcome to my portfolio website! This project showcases my skills and projects u
 
 ## Demo
 
-You can visit the live website here: [my-portfolio-orcin-zeta.vercel.app]
+You can visit the live website here: my-portfolio-orcin-zeta.vercel.app
 
 ## Features
 
