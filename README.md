@@ -13,7 +13,7 @@ You can visit the live website here: [my-portfolio-orcin-zeta.vercel.app](https:
 - **Contact:** A way for visitors to get in touch with you.
 
 ## Technologies Used
-
+- JavaScript
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Other Technologies Used, e.g., React Router, etc.]
