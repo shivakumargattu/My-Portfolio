@@ -4,9 +4,9 @@ Welcome to my portfolio website! This project showcases my skills and projects u
 <img width="full" alt="Screenshot 2024-01-30 182842" src="https://github.com/shivakumargattu/My-Portfolio/assets/121631767/a5e80e90-e347-4657-86fd-13cc23991979">
 ![projecs](https://github.com/shivakumargattu/My-Portfolio/assets/121631767/c64b9d59-b83a-4cd4-adb2-e83d5a611736)
 
-<img width="full" alt="Screenshot 2024-01-30 182949" src="https://github.com/shivakumargattu/My-Portfolio/assets/121631767/95e674f8-29c2-4329-8bea-90fad08c2eba">
+<img width="full" align ="center" alt="Screenshot 2024-01-30 182949" src="https://github.com/shivakumargattu/My-Portfolio/assets/121631767/95e674f8-29c2-4329-8bea-90fad08c2eba">
 
-<img width="full" alt="Screenshot 2024-01-30 183132" src="https://github.com/shivakumargattu/My-Portfolio/assets/121631767/31329b60-858a-4117-8af0-031f09b618af">
+<img width="full" align ="center" alt="Screenshot 2024-01-30 183132" src="https://github.com/shivakumargattu/My-Portfolio/assets/121631767/31329b60-858a-4117-8af0-031f09b618af">
 
 
 
