@@ -24,6 +24,6 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone (https://github.com/shivakumargattu/My-Portfolio/)https://github.com/shivakumargattu/My-Portfolio/
+   git clone https://github.com/shivakumargattu/My-Portfolio/
 
 
