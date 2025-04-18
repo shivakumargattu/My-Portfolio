@@ -22,15 +22,31 @@ const ProjectCard = ({ project }) => {
             </span>
           ))}
         </div>
-        
-        <a
+        <div className='flex justify-between'>
+       
+     <div>
+     <a
           href={project.link}
           target="_blank"
           rel="noopener noreferrer"
-          className="inline-block bg-white text-black px-4 py-2 border-2 border-black rounded font-bold hover:bg-blue-50 transition"
+          className="inline-block bg-yellow-400 text-white border-none px-4 py-2 border-2  rounded  transition"
         >
           View Project
         </a>
+     </div>
+     <div>
+     <a
+          href={project.link}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-block bg-slate-100 text-black mx-6 px-4 py-2 border-none rounded  transition"
+        >
+          github repo
+        </a>
+     </div>
+        
+        </div>
+        
       </div>
     </div>
   );
