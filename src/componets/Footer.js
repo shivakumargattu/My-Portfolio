@@ -1,10 +1,9 @@
 import React from 'react';
-import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
-import { FaEnvelope } from 'react-icons/fa';
+import { AiFillGithub, AiFillLinkedin, AiFillMail } from 'react-icons/ai';
 
 const Footer = () => {
   return (
-    <footer className="bg-slate-100 text-gray-600 py-8 border-t border-gray-200">
+    <footer className="bg-white py-8 border-t border-gray-200">
       <div className="container mx-auto px-4">
         <div className="flex flex-col items-center">
           <div className="flex space-x-6 mb-4">
@@ -13,7 +12,7 @@ const Footer = () => {
               className="text-gray-700 hover:text-yellow-500 transition"
               aria-label="Email"
             >
-              <FaEnvelope size={24} />
+              <AiFillMail size={24} />
             </a>
             <a
               href="https://github.com/shivakumargattu"
@@ -34,7 +33,7 @@ const Footer = () => {
               <AiFillLinkedin size={24} />
             </a>
           </div>
-          <p className="text-sm">
+          <p className="text-sm text-gray-600">
             &copy; {new Date().getFullYear()} Shiva Kumar Gattu. All rights reserved.
           </p>
         </div>
