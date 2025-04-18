@@ -4,39 +4,43 @@ import { FaEnvelope } from 'react-icons/fa';
 
 const Footer = () => {
   return (
-    <footer className="bg-slate-100 text-gray-500 py-6">
-    <hr className='border'/>
-      <div className="container mx-auto flex flex-col items-center">
-        <div className="flex space-x-4 mt-4">
-          <a
-            href="mailto:gshiva0018@gmail.com"
-            className="text-black hover:text-yellow-300"
-          >
-            <FaEnvelope size={38} />
-          </a>
-          <a
-            href="https://github.com/shivakumargattu"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-black hover:text-yellow-300"
-          >
-            <AiFillGithub size={38}/>
-          </a>
-          <a
-            href="https://www.linkedin.com/in/shiva-kumar-gattu/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-black hover:text-yellow-300"
-          >
-            <AiFillLinkedin size={38} />
-          </a>
+    <footer className="bg-slate-100 text-gray-600 py-8 border-t border-gray-200">
+      <div className="container mx-auto px-4">
+        <div className="flex flex-col items-center">
+          <div className="flex space-x-6 mb-4">
+            <a
+              href="mailto:gshiva0018@gmail.com"
+              className="text-gray-700 hover:text-yellow-500 transition"
+              aria-label="Email"
+            >
+              <FaEnvelope size={24} />
+            </a>
+            <a
+              href="https://github.com/shivakumargattu"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-700 hover:text-yellow-500 transition"
+              aria-label="GitHub"
+            >
+              <AiFillGithub size={24} />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/shiva-kumar-gattu/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-700 hover:text-yellow-500 transition"
+              aria-label="LinkedIn"
+            >
+              <AiFillLinkedin size={24} />
+            </a>
+          </div>
+          <p className="text-sm">
+            &copy; {new Date().getFullYear()} Shiva Kumar Gattu. All rights reserved.
+          </p>
         </div>
-        <p className="mt-2">&copy; 2024 Shiva Gattu. All Rights Reserved.</p>
       </div>
     </footer>
   );
 };
 
-
-
-export default Footer
+export default Footer;
