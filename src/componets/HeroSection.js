@@ -14,7 +14,7 @@ const HeroSection = () => {
               Full Stack Developer
             </h2>
             <p className="text-lg mb-8">
-              I build exceptional digital experiences with modern web technologies.
+              Seeking a progressive full-stack developer position where I can further enhance my front-end expertise in building static and responsive websites, while expanding my backend development skills and contributing to innovative web projects
             </p>
             <div className="flex gap-4">
               <Link 
