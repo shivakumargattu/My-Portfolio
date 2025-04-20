@@ -46,7 +46,7 @@ export const projects = [
       description: "Authenction Doctor Login credentials Email:shiva@gmail.com, password:12345678 ",
       technologies: ["React", "Tailwind CSS"],
       image: "https://github.com/user-attachments/assets/8cc8c405-8287-493f-94c5-e69ce9db6472",
-      link: "https://magicbus.vercel.app/",
+      link: "https://doctor-appointment-digy-lclx91j9s-shivakumargattus-projects.vercel.app/",
       type: "frontend",
       gitRepo:"https://github.com/shivakumargattu/magicbus-hyderabad/"
     },
