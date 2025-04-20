@@ -21,7 +21,7 @@ export const projects = [
       id: 3,  
       title: "Doctor Appointment",
       description: "Car rental platform with booking system",
-      technologies: ["","React", "tailwind css"],
+      technologies: ["MongoDB","Express js", "Node Js","React", "tailwind css"],
       image: "https://media.istockphoto.com/id/1349375133/photo/handsome-stylish-japanese-businessman-in-glasses-reading-notebook-and-watching-news-on.jpg",
       link: "https://doctor-appointment-9uf8.vercel.app/",
       type: "fullstack"
