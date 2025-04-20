@@ -47,7 +47,7 @@ export const projects = [
       technologies: ["React", "Tailwind CSS"],
       image: "https://github.com/user-attachments/assets/8cc8c405-8287-493f-94c5-e69ce9db6472",
       link: "https://doctor-appointment-digy-lclx91j9s-shivakumargattus-projects.vercel.app/",
-      type: "frontend",
+      type: "fullstack",
       gitRepo:"https://github.com/shivakumargattu/magicbus-hyderabad/"
     },
     
