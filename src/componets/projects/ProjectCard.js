@@ -36,7 +36,7 @@ const ProjectCard = ({ project }) => {
      </div>
      <div>
      <a
-          href={project.link}
+          href={project.gitRepo}
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-slate-100 text-black mx-6 px-4 py-2 border-none rounded  transition"

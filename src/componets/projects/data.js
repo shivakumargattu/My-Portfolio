@@ -6,7 +6,8 @@ export const projects = [
       technologies: ["React", "Tailwind CSS"],
       image: "https://i.ibb.co/PMBzHtB/React-App-Google-Chrome-26-01-2024-04-52-55.png",
       link: "https://magicbus.vercel.app/",
-      type: "frontend"
+      type: "frontend",
+      gitRepo:"#"
     },
     {
       id: 2,
@@ -15,16 +16,20 @@ export const projects = [
       technologies: ["React", "Javascript","css"],
       image: "https://i.ibb.co/Zf3nwD0/React-App-Google-Chrome-26-01-2024-05-11-09.png",
       link: "https://myfriendinfo.vercel.app/",
-      type: "frontend"
+      type: "frontend",
+      gitRepo:"#"
     },
     {
       id: 3,  
       title: "Doctor Appointment",
-      description: "Car rental platform with booking system",
+      description: "Doctor Appointment booking system uing MERN Stack",
       technologies: ["MongoDB","Express js", "Node Js","React", "tailwind css"],
-      image: "https://media.istockphoto.com/id/1349375133/photo/handsome-stylish-japanese-businessman-in-glasses-reading-notebook-and-watching-news-on.jpg",
+      image: "https://github.com/user-attachments/assets/080f6bd4-729d-46a7-aac7-7dbc5f8ef812",
       link: "https://doctor-appointment-9uf8.vercel.app/",
-      type: "fullstack"
+      type: "fullstack",
+      gitRepo:"https://github.com/shivakumargattu/Doctor-Appointment",
+      
+
     },{
       id: 4 ,
       title: "Self Drive Cars",
@@ -32,7 +37,8 @@ export const projects = [
       technologies: ["React", "JavaScript", "CSS"],
       image: "https://media.istockphoto.com/id/1349375133/photo/handsome-stylish-japanese-businessman-in-glasses-reading-notebook-and-watching-news-on.jpg",
       link: "#",
-      type: "frontend"
+      type: "frontend",
+      gitRepo:"#"
     }
 
   ];
