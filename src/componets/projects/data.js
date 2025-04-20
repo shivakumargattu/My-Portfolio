@@ -57,7 +57,7 @@ export const projects = [
     {
       id: 2233 ,
       title: "Expense Tracker",
-      description: "Doctor Appointment booking system uing MERN Stack",
+      description: "this an application to help users monitor and manage their financial spending",
       technologies: ["React","Metirial UI"],
       image: "https://github.com/user-attachments/assets/ab123e93-76bf-4d2f-8e6f-01bfe8bb8fdc",
       link: "https://expense-tracker-34vw4jkqp-shivakumargattus-projects.vercel.app/",
