@@ -22,6 +22,7 @@ export const projects = [
       gitRepo:"https://github.com/shivakumargattu/Doctor-Appointment",
       
     },
+
     {
       id: 14646,
       title: "Tamato",
@@ -29,6 +30,16 @@ export const projects = [
       technologies: ["React", "Tailwind CSS"],
       image: "https://github.com/user-attachments/assets/9e194537-a608-4698-af87-153437716984",
       link: "https://food-order-fullstack-tlm3.vercel.app/",
+      type: "frontend",
+      gitRepo:"https://github.com/shivakumargattu/food-order-fullstack/"
+    },
+    {
+      id:242,
+      title: "wordle",
+      description: "Wordle with React.js Players have six attempts to guess a five-letter target word",
+      technologies: ["React", "Tailwind CSS"],
+      image: "https://github.com/user-attachments/assets/3caad733-8d08-45a6-bbb0-50e910a9a3aa",
+      link: "https://wordle-331e8jrn1-shivakumargattus-projects.vercel.app/",
       type: "frontend",
       gitRepo:"https://github.com/shivakumargattu/food-order-fullstack/"
     },
@@ -41,7 +52,19 @@ export const projects = [
       link: "https://doctor-appointment-digy-lclx91j9s-shivakumargattus-projects.vercel.app/admin-dashboard",
       type: "fullstack",
       gitRepo:"https://github.com/shivakumargattu/Doctor-Appointment/"
-    },{
+    },
+    
+    {
+      id: 2233 ,
+      title: "Expense Tracker",
+      description: "Doctor Appointment booking system uing MERN Stack",
+      technologies: ["React","Metirial UI"],
+      image: "https://github.com/user-attachments/assets/ab123e93-76bf-4d2f-8e6f-01bfe8bb8fdc",
+      link: "https://expense-tracker-34vw4jkqp-shivakumargattus-projects.vercel.app/",
+      type: "frontend",
+      gitRepo:"https://github.com/shivakumargattu/expense_tracker/"
+    },
+    {
       id: 2,
       title: "My Friend Info Solution",
       description: "Information management system with React and MongoDB",
