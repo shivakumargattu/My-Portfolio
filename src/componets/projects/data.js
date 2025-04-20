@@ -20,16 +20,16 @@ export const projects = [
       type: "fullstack",
       gitRepo:"https://github.com/shivakumargattu/Doctor-Appointment",
       
-
-    },{
+    },
+    {
       id: 4 ,
-      title: "Self Drive Cars",
+      title: "Adimn Pannel",
       description: "Car rental platform with booking system",
-      technologies: ["React", "JavaScript", "CSS"],
-      image: "https://media.istockphoto.com/id/1349375133/photo/handsome-stylish-japanese-businessman-in-glasses-reading-notebook-and-watching-news-on.jpg",
-      link: "#",
-      type: "frontend",
-      gitRepo:"#"
+      technologies: ["MongoDB","Express js", "Node Js","React", "tailwind css"],
+      image: "https://github.com/user-attachments/assets/83468738-3598-4d25-bc39-a2dd73a5a230",
+      link: "https://doctor-appointment-digy-lclx91j9s-shivakumargattus-projects.vercel.app/admin-dashboard",
+      type: "fullstack",
+      gitRepo:"https://github.com/shivakumargattu/Doctor-Appointment/"
     },{
       id: 2,
       title: "My Friend Info Solution",
