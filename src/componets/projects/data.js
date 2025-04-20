@@ -23,11 +23,11 @@ export const projects = [
       
     },
     {
-      id: 1,
+      id: 14646,
       title: "Tamato",
-      description: "Tamato food delivery Application uing React",
+      description: "Tamato food order delivery Application uing React",
       technologies: ["React", "Tailwind CSS"],
-      image: "https://github.com/user-attachments/assets/4c5c4b58-b473-41c6-93ef-0990385a7bf7",
+      image: "https://github.com/user-attachments/assets/9e194537-a608-4698-af87-153437716984",
       link: "https://food-order-fullstack-tlm3.vercel.app/",
       type: "frontend",
       gitRepo:"https://github.com/shivakumargattu/food-order-fullstack/"
