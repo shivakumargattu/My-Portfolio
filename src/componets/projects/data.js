@@ -9,6 +9,7 @@ export const projects = [
       type: "frontend",
       gitRepo:"https://github.com/shivakumargattu/magicbus-hyderabad/"
     },
+
     
     {
       id: 3,  
@@ -20,6 +21,16 @@ export const projects = [
       type: "fullstack",
       gitRepo:"https://github.com/shivakumargattu/Doctor-Appointment",
       
+    },
+    {
+      id: 1,
+      title: "Tamato",
+      description: "Tamato food delivery Application uing React",
+      technologies: ["React", "Tailwind CSS"],
+      image: "https://github.com/user-attachments/assets/4c5c4b58-b473-41c6-93ef-0990385a7bf7",
+      link: "https://food-order-fullstack-tlm3.vercel.app/",
+      type: "frontend",
+      gitRepo:"https://github.com/shivakumargattu/food-order-fullstack/"
     },
     {
       id: 4 ,
