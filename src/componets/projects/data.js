@@ -66,6 +66,16 @@ export const projects = [
     },
     {
       id: 2,
+      title: "Organic Vegitabes",
+      description: "Information management system with React and MongoDB",
+      technologies: ["MongoDB","Express js", "Node Js","React", "tailwind css"],
+      image: "https://github.com/user-attachments/assets/00a15c6b-ba96-485c-a63c-e0155fd0c75c",
+      link: "https://myfriendinfo.vercel.app/",
+      type: "fullStack",
+      gitRepo:"https://github.com/shivakumargattu/OrgVigtb/"
+    },
+    {
+      id: 2,
       title: "My Friend Info Solution",
       description: "Information management system with React and MongoDB",
       technologies: ["React", "Javascript","css"],
@@ -87,3 +97,4 @@ export const projects = [
     
 
   ];
+  
