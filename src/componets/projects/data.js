@@ -67,10 +67,10 @@ export const projects = [
     {
       id: 2,
       title: "Organic Vegitabes",
-      description: "Information management system with React and MongoDB",
+      description: "Register & login JWT token-based with protected routes",
       technologies: ["MongoDB","Express js", "Node Js","React", "tailwind css"],
       image: "https://github.com/user-attachments/assets/00a15c6b-ba96-485c-a63c-e0155fd0c75c",
-      link: "https://myfriendinfo.vercel.app/",
+      link: "https://org-vigtb.vercel.app/",
       type: "fullStack",
       gitRepo:"https://github.com/shivakumargattu/OrgVigtb/"
     },
