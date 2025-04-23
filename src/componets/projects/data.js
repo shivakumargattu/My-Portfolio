@@ -77,7 +77,7 @@ export const projects = [
     {
       id: 2,
       title: "My Friend Info Solution",
-      description: "Information management system with React and MongoDB",
+      description: "Bulid a My Friend Info Solution compyne from stach Webite using React js  ",
       technologies: ["React", "Javascript","css"],
       image: "https://i.ibb.co/Zf3nwD0/React-App-Google-Chrome-26-01-2024-05-11-09.png",
       link: "https://myfriendinfo.vercel.app/",
