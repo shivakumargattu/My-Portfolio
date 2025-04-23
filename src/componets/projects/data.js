@@ -117,7 +117,16 @@ export const projects = [
       type: "fullstack",
       gitRepo:"https://github.com/shivakumargattu/swigg_vendor_dashbord/"
     },
-    
+    {
+      id: 65435985894,
+      title: "SUBY - Food Discovery Platform",
+      description: "A food discovery and delivery platform showcasing popular dishes and top restaurant chains in Hyderabad.",
+      technologies: ["MongoDB","Express js", "Node Js","React",  "css"],
+      image: "https://github.com/user-attachments/assets/4aa4947c-cc72-4d19-919f-f757aecea284",
+      link: "https://swiggy-ui-two.vercel.app/",
+      type: "fullstack",
+      gitRepo:"https://github.com/shivakumargattu/swiggy_ui"
+    },
 
   ];
   
